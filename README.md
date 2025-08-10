@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I am Tahmid!<br><br>I am currently studying for my O-Level<br>I am an enthusiastic guy learning coding and website creations<br>I do graphics designing and create logistics.<br>Also I am currently working with an event organising company which hosts large scale fests and academic events.
+<br>Hi, I am Tahmid!<br><br>I am currently studying for my O-Level<br>I am an enthusiastic guy learning coding and website creations<br>I do graphics designing<br>Also I am currently working with an event organising company which hosts large scale fests and academic events.
 
 
 ## 🌐 Socials:
